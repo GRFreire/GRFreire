@@ -1,6 +1,6 @@
 # Guilherme Rugai Freire
 
-<img align="right" src="https://avatars0.githubusercontent.com/u/41879254?s=460&u=b715b15b5d0a4268682d74aa668245296b846067&v=4" style="border-radius: 50%;" width="150">
+<img align="right" src="https://media3.giphy.com/media/a9vF1dlJCtiaTIiiBq/giphy.gif" height="180">
 
 ![](https://img.shields.io/badge/Programming-OK-brightgreen?style=for-the-badge)
 
