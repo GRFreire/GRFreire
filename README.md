@@ -9,8 +9,6 @@
 
 - 📫 Reach me out at [linkedin](https://www.linkedin.com/in/guilherme-rugai-freire)
 
-<br/>
-
 ---
 <p align="center" style="font-size: 1.4em; font-weight: 600;">Technology Stack</p>
 <p align="center">
