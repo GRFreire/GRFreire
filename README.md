@@ -1,35 +1,36 @@
-# Guilherme Rugai Freire
+![Hi, I'm GRFreire](README/banner.png)
+<h3 align="center" style="font-size: 1.8em">Passionate about tech and programming</h3>
 
-<img align="right" src="https://media3.giphy.com/media/a9vF1dlJCtiaTIiiBq/giphy.gif" height="180">
+- 🔭 Learning thru coding **real life projects**
 
-![](https://img.shields.io/badge/Programming-OK-brightgreen?style=for-the-badge)
+- 🤝 I’m looking to collaborate on **open source projects**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Freire-black?style=flat-square&logoColor=white&logo=Linkedin)](https://www.linkedin.com/in/guilherme-rugai-freire)
-[![Rocketseat Badge](https://img.shields.io/badge/-Guilherme%20Freire-black?style=f%20%20lat-square&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAcZJREFUWAntVMtOwkAUPRhXGsMHaLrXSF0TKT9AXavBEFeiwpr4A8rDnzBEBPc8XGLQsAfFdbvEDTW6xt6JY6RgerFNSAw3KUNv78w5c+6ZCSwvrQwxw1iYIbaAnhOYK/D/FEilTlFv1JDLZ6EoiushC/h5D2haBI27ugDtdroIh7ddCSy6VjAKQmoIuh6Dpmmi2rIsHCWPGTMBzwoEg0E0bMnVLXUMcGN9E6ZpjuV/JjybsFDITQQvXZdcwYnIVAR6L09CarmD+EEc9DiD+p/JnDnTE99ZBKi/5coNhsMhKrdl4XLK5W2nO0P2n0ZOsE0YjWqgflPQf3omxcV5FqQAN9gmpDNduMx/t4DMZRgmOp0OVFW1T0AE1WoNe7v7XGxRx1ZAujmROMRrv49W62EEiFrizI0U/PLC8oCcaxgGisUrxGww2Q75jXbP7bucQ+NUBEhqinQ6hedeV8guEh5+2ARI4mbzXuwymTzB2qryJ8mdXFkmpKu23X4UcwmcLhm/gqVA9OuOJ1BrMPALW6zDIqDv6KKYdk9m8zNYLXj/eIPf0stNuBKg/lNMc7vJxTmjKwHOIl5qWB7wAuA2d05grsDMFfgELUaVmp2qJuwAAAAASUVORK5CYII=)](https://app.rocketseat.com.br/me/grfreire)
+- 👨‍💻 All of my projects are available at [grfreire.com](https://grfreire.com)
 
-Apaixonado por tecnologia e programação.
+- 📫 Reach me out at [linkedin](https://www.linkedin.com/in/guilherme-rugai-freire)
 
-<br />
+<br/>
 
 ---
-
-```javascript
-const gui = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "React", "React Native"],
-    technologies: {
-        mobileApp: {
-            js: ["React Native"],
-            css: ["styled-components"]
-        },
-        frontEnd: {
-            js: ["React", "Next"],
-            css: ["styled-components"]
-        },
-        backEnd: ["node", "express", "knex", "TypeORM"],
-        databases: ["postgres", "mongo"],
-    },
-    architecture: ["MVC Architecture", "Data Mapper Pattern", "Single page applications"],
-    currentFocus: "Make even more awesome apps"
-};
-```
+<p align="center" style="font-size: 1.4em; font-weight: 600;">Technology Stack</p>
+<p align="center">
+    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" /> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30" /> </a>
+    <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="30" height="30" /> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" /> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" /> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" /> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="30" height="30" /> </a>
+    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" /> </a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" /> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> </a>
+    <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" /> </a>
+</p>
