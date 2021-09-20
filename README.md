@@ -3,7 +3,7 @@
 
 - 🔭 Learning thru coding **real life projects**
 
-- 🤝 I’m looking to collaborate on **open source projects**
+- 🤝 I’m looking to collaborate on **open source**
 
 - 👨‍💻 All of my projects are available at [grfreire.com](https://grfreire.com)
 
