@@ -10,6 +10,7 @@
 - 📫 Reach me out at [linkedin](https://www.linkedin.com/in/guilherme-rugai-freire)
 
 ---
+
 <p align="center" style="font-size: 1.4em; font-weight: 600;">Technology Stack</p>
 <p align="center">
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30" /> </a>
